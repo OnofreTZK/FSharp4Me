@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXSs+TfPWtS1VBXgbM/65w6rXHN11AALRGrj1TAkMce/T9Oa3mhTZMot/NErDJuBl5NFPW1SNu1Db9L5ubI0qQ==",
+  "success": true,
+  "projectFilePath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/HelloWorldFsharp/src/App/App.fsproj",
+  "expectedPackageFiles": [
+    "/home/onofre/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/onofre/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

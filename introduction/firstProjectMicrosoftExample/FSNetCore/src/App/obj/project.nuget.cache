@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pw49ajyep5zQ3oRiZ7YMMNQIBTcm6e4UXwdUb3uWKJEIJAYf7dmXcS7XO4k6PDeldI+6vjstMV33Cnc7ylLK1g==",
+  "dgSpecHash": "3eW68gNTQby+BEpdFAohSl0P5IhukZfo+Hm14HYbR2gAqdxAW+ktync7EQm/lwYV0K3e5gkvzoWeHTyaDSOkDg==",
   "success": true,
-  "projectFilePath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/App/App.fsproj",
+  "projectFilePath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/App/App.fsproj",
   "expectedPackageFiles": [
-    "/home/onofre/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/home/onofre/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
     "/home/onofre/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
-    "/home/onofre/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "/home/onofre/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

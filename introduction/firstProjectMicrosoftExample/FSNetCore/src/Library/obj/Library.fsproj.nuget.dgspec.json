@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/Library/Library.fsproj": {}
+    "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/Library.fsproj": {}
   },
   "projects": {
-    "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/Library/Library.fsproj": {
+    "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/Library.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/Library/Library.fsproj",
+        "projectUniqueName": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/Library.fsproj",
         "projectName": "Library",
-        "projectPath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/Library/Library.fsproj",
+        "projectPath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/Library.fsproj",
         "packagesPath": "/home/onofre/.nuget/packages/",
-        "outputPath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/FSNetCore/src/Library/obj/",
+        "outputPath": "/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/onofre/.nuget/NuGet/NuGet.Config"
@@ -34,8 +34,9 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[5.0.0, )",
+              "version": "[6.0.1, )",
               "generatePathProperty": true
             },
             "Newtonsoft.Json": {
@@ -58,6 +59,10 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

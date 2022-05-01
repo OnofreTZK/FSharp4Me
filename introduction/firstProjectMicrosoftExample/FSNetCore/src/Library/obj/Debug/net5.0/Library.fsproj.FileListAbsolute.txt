@@ -1,0 +1,10 @@
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/bin/Debug/net5.0/Library.deps.json
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/bin/Debug/net5.0/Library.dll
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/bin/Debug/net5.0/Library.pdb
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/bin/Debug/net5.0/Library.xml
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.fsproj.AssemblyReference.cache
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.AssemblyInfoInputs.cache
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.AssemblyInfo.fs
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.dll
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.xml
+/home/onofre/PersonalProjects/studies/fsharpStudies/Fsharp4Me/introduction/firstProjectMicrosoftExample/FSNetCore/src/Library/obj/Debug/net5.0/Library.pdb
