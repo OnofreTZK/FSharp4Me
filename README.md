@@ -19,4 +19,14 @@ At the folder with `App.fsproj`:
 ```bash
 dotnet run <args>
 ```
+
+To run with watch:
+```bash
+dotnet watch run <args>
+```
+
+To run a single script:
+```bash
+fsharpi <file_name>.fsx <args>
+```
 <img src="https://github.com/OnofreTZK/Fsharp4Me/blob/main/introduction/HelloWorldFsharp/src/App/images/Captura%20de%20tela%20de%202022-04-30%2022-02-22.png">
