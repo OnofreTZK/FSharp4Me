@@ -3,6 +3,25 @@
 # First steps
 
 ## Install dotnet CLI (TODO)
+## NeoVim configs
+Install LSP
+```bash
+dotnet tool install -g fsautocomplete
+```
+Plugs:
+```vim script
+Plug 'autozimu/LanguageClient-neovim', {'branch': 'next', 'do': 'bash install.sh'}
+Plug 'PhilT/vim-fsharp'
+Plug 'fsharp/FsAutoComplete'
+```
+Config for language client:
+```vim script
+let g:LanguageClient_serverCommands = {
+   \   'ocaml':           ['ocamllsp'],
+   \   'go':              ['gopls'],
+   \   'fsharp':          ['fsautocomplete'], 
+\}
+```
 ## Start a new F# project
 ```bash
 dotnet new console -lang "F#" -o src/App
