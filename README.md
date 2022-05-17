@@ -56,3 +56,9 @@ dotnet fsi <file_name>.fsx <args>
 
 # [Fsharp awesome projects](https://github.com/fsprojects/awesome-fsharp)
 # [Dusted codes about dotnet and fsharp](https://dusted.codes/)
+# [Paket get started](https://fsprojects.github.io/Paket/get-started.html#NET-Core-preferred)
+
+## Add packages
+```bash
+dotnet add package Saturn --version 0.16.1
+```
