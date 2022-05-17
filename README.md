@@ -62,3 +62,10 @@ dotnet fsi <file_name>.fsx <args>
 ```bash
 dotnet add package Saturn --version 0.16.1
 ```
+
+## Some of them need this way
+```bash
+dotnet new tool-manifest # check if it already exists
+dotnet tool install <package>
+dotnet tool restore
+```
