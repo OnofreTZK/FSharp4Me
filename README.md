@@ -67,5 +67,7 @@ dotnet add package Saturn --version 0.16.1
 ```bash
 dotnet new tool-manifest # check if it already exists
 dotnet tool install <package>
+# or with -g flag to install global
+dotnet tool install -g <package>
 dotnet tool restore
 ```
