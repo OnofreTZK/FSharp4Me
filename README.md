@@ -57,6 +57,7 @@ dotnet fsi <file_name>.fsx <args>
 # [Fsharp awesome projects](https://github.com/fsprojects/awesome-fsharp)
 # [Dusted codes about dotnet and fsharp](https://dusted.codes/)
 # [Paket get started](https://fsprojects.github.io/Paket/get-started.html#NET-Core-preferred)
+# [Nuget](https://www.nuget.org/)
 
 ## Add packages
 ```bash
@@ -67,5 +68,7 @@ dotnet add package Saturn --version 0.16.1
 ```bash
 dotnet new tool-manifest # check if it already exists
 dotnet tool install <package>
+# or with -g flag to install global
+dotnet tool install -g <package>
 dotnet tool restore
 ```
