@@ -72,3 +72,16 @@ dotnet tool install <package>
 dotnet tool install -g <package>
 dotnet tool restore
 ```
+
+# Add modules
+```
+# Add package reference in .fsproj
+<PackageReference Include="Module" Version="0.0.0" />
+
+# Paket
+# check if you already have |paket init| -> the existance of a paket.dependencies file
+paket add Module --version 0.0.0
+paket restore
+```
+
+
