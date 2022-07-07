@@ -81,7 +81,7 @@ dotnet tool restore
 # Paket
 # check if you already have |paket init| -> the existance of a paket.dependencies file
 paket add Module --version 0.0.0
-dotnet pakte install
+dotnet paket install
 dotnet paket update
 dotnet paket restore
 ```
