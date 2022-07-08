@@ -3,3 +3,4 @@ obj/
 .ionide/
 .vscode
 paket.*
+packages/
