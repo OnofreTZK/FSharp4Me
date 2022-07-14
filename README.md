@@ -86,4 +86,10 @@ dotnet paket update
 dotnet paket restore
 ```
 
+# Saturn Samples
+```fsharp
+// For quick test an endpoint
+(setStatusCode 201 >=> json "Testing barbecue add participant")
+```
+
 
