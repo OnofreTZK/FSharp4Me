@@ -58,6 +58,7 @@ dotnet fsi <file_name>.fsx <args>
 # [Dusted codes about dotnet and fsharp](https://dusted.codes/)
 # [Paket get started](https://fsprojects.github.io/Paket/get-started.html#NET-Core-preferred)
 # [Nuget](https://www.nuget.org/)
+# [Fake](https://fake.build/fake-gettingstarted.html)
 
 ## Add packages
 ```bash
@@ -84,6 +85,12 @@ paket add Module --version 0.0.0
 dotnet paket install
 dotnet paket update
 dotnet paket restore
+```
+
+# Saturn Samples
+```fsharp
+// For quick test an endpoint
+(setStatusCode 201 >=> json "Testing barbecue add participant")
 ```
 
 
