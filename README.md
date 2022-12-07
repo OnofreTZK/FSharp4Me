@@ -93,4 +93,6 @@ dotnet paket restore
 (setStatusCode 201 >=> json "Testing barbecue add participant")
 ```
 
+## [HttpHandler](https://github.com/giraffe-fsharp/Giraffe/blob/master/DOCUMENTATION.md#httphandler)
+
 
